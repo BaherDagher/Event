@@ -1,0 +1,51 @@
+.first-section {
+    background-image: linear-gradient(rgba(169, 50, 46, 0.734) ,#a9322eb8 ),
+    url(../images/events-heavenly-header.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+ 
+}
+
+.main {
+    color: white;
+    h1 {
+        font-size: 4rem;
+    }
+   
+}
+
+.inner-head {
+    background-color: #E68184;
+    color: white;
+}
+
+.inner-content{
+background-color: #CCCCCC;
+
+}
+
+.inner-date{
+    border: 2px solid white;
+    padding: 3rem 0 ;
+    color: white;
+}
+
+.second-section {
+    padding: 6rem 0 ;
+}
+.third-section {
+    padding: 6rem 0 ;
+    background-image: linear-gradient(rgba(169, 50, 46, 0.734) ,#a9322eb8 ), url(../images/invitation-2508607__340.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.fourth-section {
+    padding: 6rem 0 ;
+}
+
+.hidden{
+    display: none;
+}
